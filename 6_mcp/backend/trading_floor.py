@@ -22,7 +22,7 @@ if USE_MANY_MODELS:
     model_names = [
         "gpt-5.5",
         "deepseek-v4-flash",
-        "gemini-3.5-flash",
+        "gemini-3.5-flash-lite",
         "grok-4.3",
     ]
     short_model_names = ["GPT 5.5", "DeepSeek V4", "Gemini 3.5 Flash", "Grok 4.3"]
